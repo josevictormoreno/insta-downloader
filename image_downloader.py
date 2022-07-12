@@ -2,9 +2,10 @@ import requests
 
 class Images_Downloader:
 
-    def __init__(self, url, file_name):
-        self.file_name = file_name
+    def __init__(self, url):
+        self.file_name = 'download.png'
         self.url = url
+        print(self.file_name)
 
     def download_image(self):
         response = requests.get(self.url)
