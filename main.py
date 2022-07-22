@@ -5,7 +5,6 @@
 import insta_profile as instagram
 import image_downloader as image
 import PySimpleGUI as sg
-import os
 
 sg.theme('Material1')
 layout = [[sg.Text('Paste image link or username here...')],
