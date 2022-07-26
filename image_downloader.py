@@ -1,3 +1,7 @@
+
+# Author: José Victor Moreno
+# Github: https://github.com/josevictormoreno
+
 import requests
 
 class Images_Downloader:

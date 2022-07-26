@@ -1,6 +1,6 @@
 
-# Autor: José Victor Moreno
-# Github: josevictormoreno
+# Author: José Victor Moreno
+# Github: https://github.com/josevictormoreno
 
 import pyautogui
 import os
